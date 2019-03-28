@@ -57,3 +57,6 @@ No matter how you identify yourself or how others perceive you: we welcome you. 
 ## Adopt a code of conduct in your community
 
 If you would like to adopt a policy similar to this one in your community, we recommend looking at Geek Feminism's [community anti-harassment resources](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), including [a freely reusable and modifiable policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy).
+
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/<mycommunity>)
+
